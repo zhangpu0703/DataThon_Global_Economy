@@ -1,0 +1,7 @@
+SVR,0.6013,,,,
+Lasso Regression,0.6805,,,,
+C Tree,0.6974,,,,
+C Forest,0.73119,,,,
+Regression Tree,0.7632,,,,
+RandomForest,0.7718,,,,
+XGBoost,0.84389,,,,
